@@ -31,7 +31,7 @@ Project Organization
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 
-<p>Cookiecutter Setup:
-conda config --add channels conda-forge
-conda install cookiecutter
+<p>Cookiecutter Setup:<br>
+conda config --add channels conda-forge<br>
+conda install cookiecutter<br>
 cookiecutter -c v1 https://github.com/drivendata/cookiecutter-data-science</p>
